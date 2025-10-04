@@ -1,4 +1,4 @@
-const message = `Cũng hong biết Huyền Trang có đọc nó khi ghét anh hong.\nNhưng nếu có… anh chỉ muốn em bé nhà anh biết là, lúc nào anh cũng nghĩ về em hết nè.\n\nAnh biết chúng ta đều cố gắng. Đều quan tâm. Nhưng cuộc sống vốn không bình yên như những đoạn phim tình cảm lãng mạng.\n\nĐôi lúc anh nghĩ, nếu anh để em gặp vào một thời điểm khác, thì anh có cho em nhiều thứ hơn như này không? Có yêu em giống với cách em muốn hơn không?\n\nThôi thì nếu đêm nay em cảm thấy không ổn, thì anh vẫn sẽ ở đây. Nhé!`;
+const message = `Cũng hong biết cái này có tới được với plin hong.\nNhưng nếu có… thì cho ndi được nói xin lỗi nè, chắc ndi nhắn Locket hay TikTo Linh cũng xem rùi.\n\nNhưng bao nhiêu cho đủ đúng hong.\n\nSự thiếu tôn trọng lúc đó là cái sai lớn nhất của ndi, và chỉ có thế xin lỗi thôi.\n\nVề việc chứng minh ndi sẽ sửa sai bằng hành động và thái độ ớ, thì trước đó ndi muốn bù cho Linh một món quà nào đó xinh xắn, nếu được. Và đêm vui vẻ nhe, cô váo, à hông, "lói cho juan vào, cô giáo", nhỉ!`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
